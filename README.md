@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aroXend
+- 👀 I’m interested in windoes projects
+- 🌱 I’m currently learning kotlin
