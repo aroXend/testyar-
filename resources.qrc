@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>left-arrow.png</file>
+    <file>right-arrow.png</file>
+    <file>reload.png</file>
+    <file>20211213_144531_581426715.jpg</file>
+    <file>20220201_221228_148070838.jpg</file>
+    <file>1232321312441-1321233234.jpg</file>
+    <file>20220201_104138_153700000.jpg</file>
+    <file>20211213_144636_15658837.jpg</file>
+    <file>1232321312441-132123123.png</file>
+  </qresource>
+</RCC>
